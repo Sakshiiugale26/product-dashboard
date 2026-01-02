@@ -138,14 +138,6 @@ User-friendly alert when product is already added
 
 Clean, accessible UI
 
-🎥 Optional
-
-A short Loom/video walkthrough can be added to explain:
-
-App flow
-
-Redux architecture
-
 Testing approach
 
 ✅ Evaluation Mapping
