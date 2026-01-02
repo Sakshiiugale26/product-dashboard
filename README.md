@@ -4,8 +4,8 @@ A modern Product Dashboard built using React, Redux Toolkit, and Tailwind CSS, f
 
 🚀 Live Demo
 
-👉 (Add your deployed link here — Vercel / Netlify)
-Example: https://product-dashboard.vercel.app
+🔗 Deployed on Vercel:  
+https://product-dashboard-wine.vercel.app
 
 📌 Features
 🧾 Product Listing
@@ -119,8 +119,7 @@ src/
 
 ⚙️ Setup Instructions
 1️⃣ Clone the repository
-git clone https://github.com/your-username/product-dashboard.git
-cd product-dashboard
+git clone https://github.com/Sakshiiugale26/product-dashboard.git
 
 2️⃣ Install dependencies
 npm install
@@ -159,7 +158,17 @@ Responsive UI	✅
 Unit Tests	✅
 Integration Tests	✅
 Best Practices	✅
-👩‍💻 Author
 
+Deployement 
+
+The application is deployed using **Vercel**.
+Steps:
+1. Pushed code to GitHub
+2. Imported repository into Vercel
+3. Selected Vite framework
+4. Default build settings used
+5. Successfully deployed 
+
+👩‍💻 Author
 Sakshi
 Frontend Developer | React | Redux | Testing
